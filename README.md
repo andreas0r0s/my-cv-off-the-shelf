@@ -46,11 +46,7 @@ CV (abreviação de *Curriculum Vitae*) é um repositório para abrigar o meu cu
 
 Escrito em [LaTeX (ou Lampert-TeX)](https://www.latex-project.org/).
 
-[Currículo](https://gitlab.com/script0mux-info/cv/-/blob/291e6a61e7d40f59b57896261a070fe70d45f20f/src/cv.pdf)
-
-[Currículo resumido](https://gitlab.com/script0mux-info/cv/-/blob/291e6a61e7d40f59b57896261a070fe70d45f20f/src/resume.pdf)
-
-**Carta de apresentação**: `indisponível`
+Para **visualizar currículo**: [resume.pdf](https://gitlab.com/script0mux/my-cv-off-the-shelf/-/blob/2ba0768c2e1afdd0e483d9039d45dcbf1b3536e0/src/resume.pdf)
 
 ## Experimente
 
