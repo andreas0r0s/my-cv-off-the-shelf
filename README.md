@@ -3,7 +3,7 @@
     <img alt="CV Andreas" src="./assets/curriculum-vitae.png" width="150px" height="150px" />
   </a>
   <br />
-  CV: Andreas R. S.
+  Currículo: Andreas R. S.
 </h1>
 
 <p align="center">
