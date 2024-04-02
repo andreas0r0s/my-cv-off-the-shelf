@@ -50,21 +50,20 @@ Para **visualizar currículo**: [resume.pdf](https://gitlab.com/script0mux/my-cv
 
 ## Experimente
 
-* [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
-* [**Edit Cover Letter on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
+* [**Edite currículo no OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
+* [**Edite a carta de apresentação no OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv-cover-letter/pfzzjspkthbk)
 
 **_Note:_ Os serviços acima não garantem código fonte atualizado do Awesome CV.**
 
 ## Como usar
 
-#### Pré-requisitos
+### Pré-requisitos
 
-É necessário uma distribuição completa instalada na máquina.
+É necessário uma distribuição completa de TeX instalada na máquina (TeX Live). [Existem várias distribuições para diferentes sistemas operacionais](http://tex.stackexchange.com/q/55437), mas recomenda-se o TeX Live.
 
-A full TeX distribution is assumed.  [Various distributions for different operating systems (Windows, Mac, \*nix) are available](http://tex.stackexchange.com/q/55437) but TeX Live is recommended.
-You can [install TeX from upstream](http://tex.stackexchange.com/q/1092) (recommended; most up-to-date) or use `sudo apt-get install texlive-full` if you really want that.  (It's generally a few years behind.)
+É possível [instalar TeX a partir do upstream](http://tex.stackexchange.com/q/1092) (opção mais recomendada, visto que é a mais atualizada) ou use `sudo apt-get install texlive-full`, porém está alguns anos atrasados.
 
-#### Uso
+### Uso
 
 No console/terminal/prompt de comando execute:
 
@@ -76,13 +75,13 @@ O resultado deve ser o arquivo ``{seu-cv}.pdf``.
 
 ## Crédito
 
-[**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
+[**LaTeX**](http://www.latex-project.org) é um fantástico programa de tipografia que muitas pessoas utilizam atualmente, principalmente para matemática e ciência da computação no meio acadêmico.
 
-[**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome) is bindings for FontAwesome icons to be used in XeLaTeX.
+[**LaTeX FontAwesome**](https://github.com/furl/latex-fontawesome) é uma indexação para ícones de do FontAwesome para serem usados com o XeLaTeX.
 
-[**Roboto**](https://github.com/google/roboto) is the default font on Android and ChromeOS, and the recommended font for Google’s visual language, Material Design.
+[**Roboto**](https://github.com/google/roboto) é a fonte padrão para o ChromeOS, além de ser a fonte recomendada para a identidade visual de linguagem e para materiais do Google.
 
-[**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.
+[**Source Sans Pro**](https://github.com/adobe-fonts/source-sans-pro) é uma coleção de fontes OpenType planejadas para se adaptarem bem a ambientes de interface de usuário.
 
 Icone usado para logo do repositório: [Curriculum icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/curriculum)
 
